@@ -1,0 +1,10 @@
+let name = "Ankit Jain";
+let role = "Manual Tester";
+let experience = "3 years";
+let favoriteTool = "BUGNIZER";
+let learningGoal = "To automate repetitive test cases";
+console.log("Name: "+ name);
+console.log("Role: " + role);
+console.log("Expereince: " +experience);
+console.log("Favorite Tool:" + favoriteTool);
+console.log("Learning Goal: " + learningGoal);

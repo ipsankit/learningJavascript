@@ -1,0 +1,10 @@
+let testScores = [85, 92, 78, 95, 88, 73, 90];
+console.log("**Example Output:**");
+console.log("Test Score Analysis");
+console.log("Scores:",testScores);
+console.log("Total Scores:",testScores.length);
+console.log("First Score:",testScores[0]);
+console.log("Last Score:",testScores[testScores.length - 1]);
+console.log("Checking for specific scores...");
+console.log("Score 95 found: Yes(at index",testScores.indexOf(95),")");
+console.log("Score 100 found: No",testScores.indexOf(100));

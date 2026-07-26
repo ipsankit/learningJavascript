@@ -1,0 +1,14 @@
+console.log("Hello Playwright!!");
+let username = "abc@xyz.com";
+console.log(username);
+username = 6;
+let username1 = "Ankit";
+let password = "Ankit@123";
+let email = "ankit@gmail.com";
+let phoneNumber= "1234500000";
+let testURL = "https://ankit.com";
+console.log(username1);
+console.log(password);
+console.log(email);
+console.log(phoneNumber);
+console.log(testURL);
